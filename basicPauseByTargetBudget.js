@@ -7,7 +7,7 @@
 
 function main() {
   
-  var targetBudget = 'setMe';	// Change to target budget
+  var targetBudget = 0;	// Change to target budget
   var MTDCost;
   var safeBudget;
   
