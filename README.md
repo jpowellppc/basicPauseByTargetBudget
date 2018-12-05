@@ -11,3 +11,5 @@ Line 19 - Change **20** to whatever amount you want to be "under" as to not over
 
 Line 35 - Add correct emails
 > MailApp.sendEmail('**changeMe@example.com**', AdWordsApp.currentAccount().getName() + ' monthly budget met, all campaigns paused.', 'See subject line.');
+
+Set to run hourly
